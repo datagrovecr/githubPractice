@@ -9,7 +9,7 @@ This repo was created for Datagrove Costa Rica developers to practice making com
 
         open index.html
 
-* Text in <angle brackets> should be customized to your project - do not type the angle brackets themselves
+* Text in < angle brackets > should be customized to your project - do not type the angle brackets themselves
 
     For example, if the instructions say:
 
