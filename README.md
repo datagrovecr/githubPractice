@@ -3,7 +3,8 @@ This repo was created for Datagrove Costa Rica developers to practice making com
 
 ## About These Instructions
 * Items `highlighted in gray` indicate buttons or specific text 
-* Items in a code block will be entered into a terminal
+* Items in a code block will be entered into a terminal:
+    For example, you can copy and paste this text into a terminal:
 
         open index.html
 
