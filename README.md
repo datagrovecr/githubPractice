@@ -2,7 +2,7 @@
 This repo was created for Datagrove Costa Rica developers to practice making commits, creating branches, and making pull requests.
 
 ## About These Instructions
-* Items in a `different color` indicate buttons or specific text 
+* Items `highlighted in gray` indicate buttons or specific text 
 * Items in a code block will be entered into a terminal
 
         open index.html
